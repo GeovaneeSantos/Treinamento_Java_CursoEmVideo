@@ -21,7 +21,7 @@ Aqui foi meu primeiro código e java (Aprendi e apliquei conceitos dsobre variá
 * Aqui eu fiz um app que verifica se há ou não a capacidade do poligono ser triangulo, por meio da soma dos lados da forma, usei interface gráfica também.
 </br>
 
-## TesteFuncao01 e TesteFuncao02 (Funcao01/src/funcao01)
+## [TesteFuncao01](TesteFuncao01/src/testefuncao01/TesteFuncao01.java/) e [TesteFuncao02](TesteFuncao02/src/testefuncao02/TesteFuncao02.java/) 
 
 * Por introduzir alguns conceitos de POO, como reaprobeitamento, encapsulamento.
 </br>
