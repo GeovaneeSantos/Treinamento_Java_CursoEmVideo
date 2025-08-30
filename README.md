@@ -11,12 +11,12 @@ Aqui tenho desde apps java muito simples com saida pelo terminal até alguns mai
 Aqui foi meu primeiro código e java (Aprendi e apliquei conceitos dsobre variáveis, atribuições e compreendi a estrutura de um código nativo da linguagem java).
 </br>
 
-## EquacaoSegundoGrau 
+## [EquacaoSegundoGrau](EquacaoSegundoGrau/src/cursoemvideo/TelaEquacao.java/)
 
 * Fiz um app com interface gráfica para resolver uma função afim e retornar o valor de delta (Foi uma aplicação prática dos recursos <ins>getter()</ins>ins e <ins>setter()</ins> do java).
 </br>
 
-## ProjetoTriangulo  
+## [ProjetoTriangulo](ProjetoTriangulo/src/classes/TelaTriangulo.java/)
 
 * Aqui eu fiz um app que verifica se há ou não a capacidade do poligono ser triangulo, por meio da soma dos lados da forma, usei interface gráfica também.
 </br>
@@ -26,7 +26,7 @@ Aqui foi meu primeiro código e java (Aprendi e apliquei conceitos dsobre variá
 * Por introduzir alguns conceitos de POO, como reaprobeitamento, encapsulamento.
 </br>
 
-## Projeto fatorial 
+## Projeto Vetor 
 
 * Aqui eu uni todos conhecimentos básicos (variáveis primitivas, arrays, interface gráfica com JavaSwing, Wrapper Classes, Java methods e aplicação prática dos recursos de Programação orientada a objeto)
 </br>
