@@ -24,5 +24,5 @@ Foi extremamente gratificante concluir esse treinamento e com toda certeza darei
 </br>
 Valorizei os comentários pois eles além de facilitarem a compreensão do código, torna mais fácil sua manutenção e futura escalabilidade.
 </br>
-Busquei aplicar as boas práticas e construir códigos limpos (* *no ínicio nem tanto, mas nos projetos mais avaçados sim* *).
+Busquei aplicar as boas práticas e construir códigos limpos * *(no ínicio nem tanto, mas nos projetos mais avaçados sim)* *.
 </br>
