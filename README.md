@@ -13,7 +13,8 @@ Aqui tenho desde apps java muito simples com saida pelo terminal até alguns mai
 </br>
 - TesteFuncao01 e TesteFuncao02 - Por introduzir alguns conceitos de POO, como reaprobeitamento, encapsulamento.
 </br>
-- Projeto fatorial - Aqui eu uni todos conhecimentos básicos (variáveis primitivas, arrays, interface gráfica com JavaSwing, Wrapper Classes, Java methods e aplicação prática dos recursos de Programação orientada a objeto)</br>
+- Projeto fatorial - Aqui eu uni todos conhecimentos básicos (variáveis primitivas, arrays, interface gráfica com JavaSwing, Wrapper Classes, Java methods e aplicação prática dos recursos de Programação orientada a objeto)
+</br>
 
 Foi extremamente gratificante concluir esse treinamento e com toda certeza darei seguimento nas boas práticas e conhecimentos obtidos.
 </br>
