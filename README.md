@@ -15,7 +15,7 @@ Aqui tenho desde apps java muito simples com saida pelo terminal até alguns mai
 </br>
 - Projeto fatorial - Aqui eu uni todos conhecimentos básicos (variáveis primitivas, arrays, interface gráfica com JavaSwing, Wrapper Classes, Java methods e aplicação prática dos recursos de Programação orientada a objeto)
 </br>
-
+</br>
 Foi extremamente gratificante concluir esse treinamento e com toda certeza darei seguimento nas boas práticas e conhecimentos obtidos.
 </br>
 Valorizei os comentários pois eles além de facilitarem a compreensão do código, torna mais fácil sua manutenção e futura escalabilidade.
