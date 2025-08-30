@@ -3,7 +3,7 @@
 Esses códigos foram **"problemas"** propostos pelo professor gustavo guanabara durante o curso de java basico</br>
 Aqui tenho desde apps java muito simples com saida pelo terminal até alguns mais avançados que usam javaSwing, POO e conceitos mais "complicadinhos"
 </br>
-###**Os destaques são:**
+### **Os destaques são:**
 </br>
 - HelloWorld - Aqui foi meu primeiro código e java (Aprendie apliquei conceitos de variaveis, atribuições e compreendi a estrutura de um código nativo da linguagem java).</br>
 - EquacaoSegundoGrau - Fiz um app com interface gráfica para resolver uma função afim e retornar o valor de delta (Foi uma aplicação prática dos recursos <sup>getter()</sup> e <sup>setter()</sup> do java).</br>
