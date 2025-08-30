@@ -1,7 +1,7 @@
 # Treinamento_Java_CursoEmVideo
 Códigos feitos durante o curso Java básico do Curso em video
 Esses códigos foram "problemas" propostos pelo professor gustavo guanabara durante o curso de java basico
-Aqui tenho desde apps java muito simples com saida pelo terminal at[e alguns mais avançados que usam javaSwing, POO e conceitos mais "complicadinhos"
+Aqui tenho desde apps java muito simples com saida pelo terminal até alguns mais avançados que usam javaSwing, POO e conceitos mais "complicadinhos"
 
 Os destaques são: 
 
