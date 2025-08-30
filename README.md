@@ -5,15 +5,19 @@ Aqui tenho desde apps java muito simples com saida pelo terminal até alguns mai
 </br>
 ### **Os destaques são:**
 </br>
-- HelloWorld - Aqui foi meu primeiro código e java (Aprendie apliquei conceitos de variaveis, atribuições e compreendi a estrutura de um código nativo da linguagem java).
+* HelloWorld - Aqui foi meu primeiro código e java (Aprendi e apliquei conceitos dsobre variáveis, atribuições e compreendi a estrutura de um código nativo da linguagem java).
 </br>
-- EquacaoSegundoGrau - Fiz um app com interface gráfica para resolver uma função afim e retornar o valor de delta (Foi uma aplicação prática dos recursos <ins>getter()</ins>ins e <ins>setter()</ins> do java).
 </br>
-- ProjetoTriangulo - Aqui eu fiz um app que verifica se há ou não a capacidade do poligono ser triangulo, por meio da soma dos lados da forma, usei interface gráfica também.
+* EquacaoSegundoGrau - Fiz um app com interface gráfica para resolver uma função afim e retornar o valor de delta (Foi uma aplicação prática dos recursos <ins>getter()</ins>ins e <ins>setter()</ins> do java).
 </br>
-- TesteFuncao01 e TesteFuncao02 - Por introduzir alguns conceitos de POO, como reaprobeitamento, encapsulamento.
 </br>
-- Projeto fatorial - Aqui eu uni todos conhecimentos básicos (variáveis primitivas, arrays, interface gráfica com JavaSwing, Wrapper Classes, Java methods e aplicação prática dos recursos de Programação orientada a objeto)
+* ProjetoTriangulo - Aqui eu fiz um app que verifica se há ou não a capacidade do poligono ser triangulo, por meio da soma dos lados da forma, usei interface gráfica também.
+</br>
+</br>
+* TesteFuncao01 e TesteFuncao02 - Por introduzir alguns conceitos de POO, como reaprobeitamento, encapsulamento.
+</br>
+</br>
+* Projeto fatorial - Aqui eu uni todos conhecimentos básicos (variáveis primitivas, arrays, interface gráfica com JavaSwing, Wrapper Classes, Java methods e aplicação prática dos recursos de Programação orientada a objeto)
 </br>
 </br>
 Foi extremamente gratificante concluir esse treinamento e com toda certeza darei seguimento nas boas práticas e conhecimentos obtidos.
