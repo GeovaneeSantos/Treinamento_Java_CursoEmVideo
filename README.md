@@ -14,21 +14,28 @@ Aqui foi meu primeiro código e java (Aprendi e apliquei conceitos dsobre variá
 
 ## EquacaoSegundoGrau 
 </br>
+
 * Fiz um app com interface gráfica para resolver uma função afim e retornar o valor de delta (Foi uma aplicação prática dos recursos <ins>getter()</ins>ins e <ins>setter()</ins> do java).
 </br>
 </br>
+
 ## ProjetoTriangulo  
 </br>
+
 * Aqui eu fiz um app que verifica se há ou não a capacidade do poligono ser triangulo, por meio da soma dos lados da forma, usei interface gráfica também.
 </br>
 </br>
+
 ## TesteFuncao01 e TesteFuncao02 
 </br>
+
 * Por introduzir alguns conceitos de POO, como reaprobeitamento, encapsulamento.
 </br>
 </br>
+
 ## Projeto fatorial 
 </br>
+
 * Aqui eu uni todos conhecimentos básicos (variáveis primitivas, arrays, interface gráfica com JavaSwing, Wrapper Classes, Java methods e aplicação prática dos recursos de Programação orientada a objeto)
 </br>
 </br>
