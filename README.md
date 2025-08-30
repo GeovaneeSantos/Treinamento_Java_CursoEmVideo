@@ -6,7 +6,7 @@ Aqui tenho desde apps java muito simples com saida pelo terminal até alguns mai
 Os destaques são: 
 
 HelloWorld - Aqui foi meu primeiro código e java (Aprendie apliquei conceitos de variaveis, atribuições e compreendi a estrutura de um código nativo da linguagem java).</br>
-EquacaoSegundoGrau - Fiz um app com interface gráfica para resolver uma função afim e retornar o valor de delta (Foi uma aplicação prática dos recursos getrer() e setter() do java).</br>
+EquacaoSegundoGrau - Fiz um app com interface gráfica para resolver uma função afim e retornar o valor de delta (Foi uma aplicação prática dos recursos <sup>getter()</sup> e <sup>setter()</sup> do java).</br>
 ProjetoTriangulo - Aqui eu fiz um app que verifica se há ou não a capacidade do poligono ser triangulo, por meio da soma dos lados da forma, usei interface gráfica também.</br>
 TesteFuncao01 e TesteFuncao02 - Por introduzir alguns conceitos de POO, como reaprobeitamento, encapsulamento.</br>
 Projeto fatorial - Aqui eu uni todos conhecimentos básicos (variáveis primitivas, arrays, interface gráfica com JavaSwing, Wrapper Classes, Java methods e aplicação prática dos recursos de Programação orientada a objeto)</br>
